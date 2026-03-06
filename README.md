@@ -8,6 +8,6 @@ I am a Business Analytics & Marketing Graduate passionate about transforming com
 * **Project 2: [Name Coming Soon]** - Python Exploratory Data Analysis.
 
 ### 🛠️ Technical Toolkit
-* **Languages:** English (Native), Japanese (Conversational)
-* **Data:** SQL, Business Analytics, Tableau
-* **Development:** Git, GitHub, macOS
+* **Languages:** English (Native), Japanese (Conversational), German (Conversational)
+* **Data:** SQL, Python, R, Excel, Tableau
+* **Development:** Git, GitHub, Terminal (macOS/Unix)
